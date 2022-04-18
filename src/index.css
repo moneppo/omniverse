@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  border: none;
+  background: none;
+}
+
+.canvas {
+  width: 5in;
+  height: 7in;
+  border: solid #888 1px;
+  border-radius: 16px;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.packlist {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.card {
+  width: 100px;
+  height: 140px;
+  border: solid #888 1px;
+  border-radius: 4px;
+  background-color: #eee;
+  margin: 5px;
+}
