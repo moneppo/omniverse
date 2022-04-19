@@ -26,7 +26,7 @@ is depleted, it must be removed from the competition.
 
 Each Contestant starts with a certain amount of essence, depending on how much Honor is
 awarded for defeating them: a Contestant that awards 1 Honor has 30 Essence, a Contestant
-that awards 2 Honor had 60 Essence, and so on.
+that awards 2 Honor has 60 Essence, and so on.
 
 ### Actions & Power
 Each Contestant may have up to two _Actions_ at their disposal. In order to perform these
@@ -74,7 +74,9 @@ common game everyone can play.
 
 All physical specifications are recommendations, since Omniverse cards vary tremendously
 depending on the creator. In order for competitive play to be more standardized, the only
-requirement is that a player's deck must 
+requirement is that cards must all fit in a standard card sleeve. It's also preferable to
+have the backs of all cards be the same, so a 
+[backed card sleeve](https://www.dragonshield.com/) is ideal.
 
 Cards should be 2.5 inches by 3.5 inches (64mm X 89mm) and preferably no thicker than 
 1/50th of an inch or 1/2mm. One side should provide all the details necessary for using
@@ -83,9 +85,9 @@ recommended Omniverse card back can be found [here](omniverse/back-small.png).
 
 ### Basic Cards
 To start, the following set of rules are recommended for making cards. Remember that the
-way these cards present abilities, power, etc. it completely up to the creator of the
-card. Contestants can deplete essence by outsmarting, out-dancing, or even complimenting 
-their opponent.
+way these cards present abilities, power, etc. is completely up to the creator of the
+card. Contestants can deplete essence by outsmarting, out-dancing, or even 
+out-complimenting their opponent.
 
 - Competitors can have either 30 Essence and 1 Honor, or 60 Essence and 2 Honor
 - Resource cards supply 1 Power per turn
@@ -102,29 +104,29 @@ their opponent.
 - An Artifact can have the ability to remove an opponent Resource card from play
 
 ### Full Card Creation Rules
-If you want to explore beyond the basic card concepts outline above, the rules for card
-making must be followed to ensure that the card is interesting and fair for use in the
-game. The basic cards above already follow these rules, so sometimes the best way to make
-a new kind of card is to modify the basic cards to do something special while adhering to
-these rules.
+If you want to explore beyond the basic card concepts outline above, the rules for 
+card-making must be followed to ensure that the card is interesting and fair for use in 
+the game. The basic cards above already follow these rules, so sometimes the best way to
+make a new kind of card is to modify the basic cards to do something special while 
+adhering to these rules.
 
-1.  Contestant cards start with 30 Essence per Honor awarded, and up to two
+1.  Contestant cards start with 30 _Essence_ per _Honor_ awarded, and up to two
     actions.
-2.  Artifacts provide a single Action that can utilize 10 Essence.
-3.  Resource cards provide 1 Power every turn to any active contestants.
-4.  Actions may convert (P)ower or (E)ssence to increase or decrease the (E)ssence of any
+2.  Artifacts provide a single _Action_ that can utilize 10 _Essence_.
+3.  Resource cards provide 1 _Power_ every turn to any active contestants.
+4.  Actions may convert _Power_ or _Essence_ to increase or decrease the _Essence_ of any
     cards in play. Actions may apply effects that happen over time.
 5.  An action can result in the removal of a Resource from play by depleting exactly 10 
     Essence from it.
 6.  All actions and their resulting effects must be balanced by following the conversion: 
-     1 Honor = 30 Essence = 6 Power
+     **1 Honor = 30 Essence = 6 Power**
 7.  An Action may disable another Contestant's Action for a single turn at a cost of 5 
-    Essence or 1 Power. 
+    _Essence_ or 1 _Power_. 
 8. An Action may disable another Contestant may be disabled for a single turn at a cost 
-    of 10 Essence or 2 Power.
+    of 10 _Essence_ or 2 _Power_.
 9. Statistically random events can be used in conjunction with an Action, so long as the 
     expected value of the Action is balanced.
-10. Artifacts and Resources may provide more Essence or Power if they are only usable
+10. Artifacts and Resources may provide more _Essence_ or _Power_ if they are only usable
     by a subset of competitors in the players deck. The additional amount must be
     inversely proportional to the fraction of competitors that can use the card.
 11. Cards that can be proven to be made by the creators of Omniverse are legal for 
