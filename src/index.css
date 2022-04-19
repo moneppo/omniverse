@@ -1,15 +1,11 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background-color: rgb(32,33,36);
+  color: rgb(232,234,237);
 }
 
 button {
@@ -28,6 +24,82 @@ button {
   display: flex;
   flex-direction: row;
   padding: 10px;
+}
+
+.md {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items:  center;
+}
+
+@keyframes header {
+  0%   {color: hsl(60,100%,70%)}
+  18%  {color: hsl(120,100%,70%)}
+  36%  {color: hsl(180,100%,70%)}
+  54%  {color :hsl(240,100%,70%)}
+  62% {color: hsl(300,100%,70%)}
+  80% {color: hsl(360,100%,70%)}
+  100% {color: hsl(60,100%,70%)}
+}
+
+@keyframes header-slide {
+  0%   {text-decoration-color: hsl(60,100%,70%)}
+  18%  {text-decoration-color: hsl(120,100%,70%)}
+  36%  {text-decoration-color: hsl(180,100%,70%)}
+  54%  {text-decoration-color :hsl(240,100%,70%)}
+  62% {text-decoration-color: hsl(300,100%,70%)}
+  80% {text-decoration-color: hsl(360,100%,70%)}
+  100% {text-decoration-color: hsl(60,100%,70%)}
+
+	to {
+		margin-left: -51%;
+	}
+}
+
+.md h1,h2,h3,h4,h5,h6,a {
+  color: red;
+  animation-name: header;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+}
+
+.md h1 {
+    text-transform: uppercase;
+    position: relative;
+    height: 2em;
+    width: fit-content;
+    overflow: hidden;
+}
+
+.md h1:after {
+  position: absolute;
+  left: 0;
+  content: "anythingcanbehereitdoesntmatter";
+  color: transparent;
+  line-height: 1.01;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: red;
+  text-decoration-skip-ink: none;
+  animation: header-slide 20s linear infinite;
+}
+
+.md li {
+  margin: 1em 0px;
+}
+
+.md img {
+  max-width: 25%;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  line-height: 150%;
+  background-size: contain;
 }
 
 .packlist {

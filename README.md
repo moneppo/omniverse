@@ -40,11 +40,11 @@ _Artifacts_ assist your Contestants, by providing Essence or offering new capabi
 Each player shuffles their deck and draws six cards. The youngest player goes first.
 
 A turn has three steps:
-    1. **Prepare**: Draw a card and place up to one Resource card face up. Apply any effects
-       to your contestants.
-    2. **Act**: For each contestant in play, either pair it to an opponent contestant or 
-       take one action, but not both. Play any number of actions from cards in your hand
-    3. **New Contestant**: Put up to one contestant card in play
+1. **Prepare**: Draw a card and place up to one Resource card face up. Apply any effects
+   to your contestants.
+2. **Act**: For each contestant in play, either pair it to an opponent contestant or take
+   one action, but not both. Play any number of actions from cards in your hand.
+3. **New Contestant**: Put up to one contestant card in play.
 
 When a card's Essence is depleted, it is removed from play and discarded. If the card
 is a contestant, its honor is awarded to the attacking player. The first player to earn 
@@ -69,6 +69,9 @@ The point here is to enable anyone to be able to express themselves with cards w
 common game everyone can play.
 
 ### Physical Specifications
+
+![Omniverse card back](omniverse/back-small.png)
+
 All physical specifications are recommendations, since Omniverse cards vary tremendously
 depending on the creator. In order for competitive play to be more standardized, the only
 requirement is that a player's deck must 
@@ -76,9 +79,7 @@ requirement is that a player's deck must
 Cards should be 2.5 inches by 3.5 inches (64mm X 89mm) and preferably no thicker than 
 1/50th of an inch or 1/2mm. One side should provide all the details necessary for using
 the card in the game. The opposing side should be a generic pattern or motif. The
-recommended Omniverse card back can be found [here](omniverse-back-small.png).
-
-![Omniverse card back](omniverse-back-small.png)
+recommended Omniverse card back can be found [here](omniverse/back-small.png).
 
 ### Basic Cards
 To start, the following set of rules are recommended for making cards. Remember that the
