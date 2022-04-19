@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/omniverse/static/css/main.073c9b0a.css",
-    "main.js": "/omniverse/static/js/main.50a7b594.js",
-    "static/js/787.5d7b42c1.chunk.js": "/omniverse/static/js/787.5d7b42c1.chunk.js",
-    "static/media/logo.svg": "/omniverse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/omniverse/static/css/main.be7d96f8.css",
+    "main.js": "/omniverse/static/js/main.b359f7b5.js",
+    "static/media/README.md": "/omniverse/static/media/README.2b5251a2d71fd9455622.md",
     "index.html": "/omniverse/index.html",
-    "main.073c9b0a.css.map": "/omniverse/static/css/main.073c9b0a.css.map",
-    "main.50a7b594.js.map": "/omniverse/static/js/main.50a7b594.js.map",
-    "787.5d7b42c1.chunk.js.map": "/omniverse/static/js/787.5d7b42c1.chunk.js.map"
+    "main.be7d96f8.css.map": "/omniverse/static/css/main.be7d96f8.css.map",
+    "main.b359f7b5.js.map": "/omniverse/static/js/main.b359f7b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.50a7b594.js"
+    "static/css/main.be7d96f8.css",
+    "static/js/main.b359f7b5.js"
   ]
 }
