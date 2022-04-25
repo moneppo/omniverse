@@ -11,8 +11,8 @@ choosing.
 ## Where do I get cards?
 
 If you don't know somebody making cards or you don't want to make cards for yourself yet,
-you can get a premade deck of cards by either printing them out [from this PDF](url.pdf)
-or purchasing a deck [here](url.html).
+you can get a premade deck of cards by either printing them out 
+[from this PDF](playtest_deck.pdf) or purchasing a deck (coming soon!)
 
 ## How to Play
 The goal of the game is to be the first to earn 6 _Honor_. Honor is earned by defeating
@@ -70,7 +70,7 @@ common game everyone can play.
 
 ### Physical Specifications
 
-![Omniverse card back](omniverse/back-small.png)
+![Omniverse card back](back-small.png)
 
 All physical specifications are recommendations, since Omniverse cards vary tremendously
 depending on the creator. In order for competitive play to be more standardized, the only
@@ -81,7 +81,7 @@ have the backs of all cards be the same, so a
 Cards should be 2.5 inches by 3.5 inches (64mm X 89mm) and preferably no thicker than 
 1/50th of an inch or 1/2mm. One side should provide all the details necessary for using
 the card in the game. The opposing side should be a generic pattern or motif. The
-recommended Omniverse card back can be found [here](omniverse/back-small.png).
+recommended Omniverse card back can be found [here](back-small.png).
 
 ### Basic Cards
 To start, the following set of rules are recommended for making cards. Remember that the
