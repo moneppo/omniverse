@@ -12,7 +12,8 @@ choosing.
 
 If you don't know somebody making cards or you don't want to make cards for yourself yet,
 you can get a premade deck of cards by either printing them out 
-[from this PDF](playtest_deck.pdf) or purchasing a deck (coming soon!)
+[from this PDF](https://github.com/moneppo/omniverse/raw/main/playtest_deck.pdf)
+or purchasing a deck (coming soon!)
 
 ## How to Play
 The goal of the game is to be the first to earn 6 _Honor_. Honor is earned by defeating
@@ -70,7 +71,7 @@ common game everyone can play.
 
 ### Physical Specifications
 
-![Omniverse card back](back-small.png)
+![Omniverse card back](https://github.com/moneppo/omniverse/raw/main/back-small.png)
 
 All physical specifications are recommendations, since Omniverse cards vary tremendously
 depending on the creator. In order for competitive play to be more standardized, the only
