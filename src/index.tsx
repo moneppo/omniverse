@@ -16,7 +16,7 @@ fetch(readme)
   .then((text) => {
     root.render(
       <React.StrictMode>
-        {/* <App /> */}
+        {/* <App />  */}
         <ReactMarkdown className='md'>{text}</ReactMarkdown>
 
       </React.StrictMode>
